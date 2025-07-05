@@ -82,4 +82,4 @@ Displayed as static cards in the prototype.
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 CHECK OUT THE PROTOTYPE
 Explore the visual experience of StyleSync through our Figma prototype:
-[figma link:](https://www.figma.com/design/OLjQOM8FyFMppdzgefMcWs/barbershop-prototype?node-id=0-1&p=f&t=kDQPNOjqgHrBuziA-0)
+[StyleSync figma link:](https://www.figma.com/design/OLjQOM8FyFMppdzgefMcWs/barbershop-prototype?node-id=0-1&p=f&t=kDQPNOjqgHrBuziA-0)
